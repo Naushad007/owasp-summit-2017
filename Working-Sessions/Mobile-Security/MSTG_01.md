@@ -13,7 +13,7 @@ room-layout     : unknown
 remote          : https://hangouts.google.com/hangouts/_/owasp.org/summit-room-4
 description     : In this book sprint we produce content for the "Mobile Operating Systems" chapter of the Mobile Security Testing Guide.
 organizers      : Bernhard Mueller, Sven Schleier
-participants    : Carlos Holguera, Sven Schleier, Jeroen Willemsen
+participants    : Naushad007, Carlos Holguera, Sven Schleier, Jeroen Willemsen
 remote participants: Anant Shrivastava
 invited         : Denis Pilipchuk, Naushad, Bolot Kerimbaev, Marc Rimbau, Alexander Antukh, Johanna Curiel
 ---
