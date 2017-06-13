@@ -12,7 +12,7 @@ location     : Room-1
 room-layout  : unknown
 locked       : true
 status       : done
-participants : Johan Peeters, Timo Pagel
+participants : Johan Peeters, Timo Pagel, Naushad007
 organizers   : Felipe Zipitria
 invited      : Dinis Cruz
 ---
