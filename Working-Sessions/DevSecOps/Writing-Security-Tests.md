@@ -12,7 +12,7 @@ when-time    : PM-2
 location     : Room-1
 room-layout  : unknown
 organizers   : Dinis Cruz
-participants : Robert Morschel,Timo Pagel,Johan Peeters
+participants : Naushad007, Robert Morschel,Timo Pagel,Johan Peeters
 invited      : Nanne Baars
 ---
 
