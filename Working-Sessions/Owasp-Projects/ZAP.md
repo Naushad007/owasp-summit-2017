@@ -9,7 +9,7 @@ when-day     : Wed
 when-time    : PM-3
 location     : Room-3
 organizers   : Simon Bennetts, Mateo Martinez
-participants : Mateo Martinez, Ade Yoseman Putra
+participants : Naushad007, Mateo Martinez, Ade Yoseman Putra
 ---
 
 ## Why
